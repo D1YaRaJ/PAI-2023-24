@@ -1,6 +1,7 @@
 x="Hello"
 y='World'
 print(x+y)
+print(x,y)
 print(type(x))
 #single line comment
 """
